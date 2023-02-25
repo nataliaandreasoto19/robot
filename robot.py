@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1Ls_ig_cqUMU3WOtkfpQquQ95EIxGYXAi
 """
 
-#hola
+#Hello world
 robot_art = r"""
       0: {head_name}
       Is available: {head_status}
